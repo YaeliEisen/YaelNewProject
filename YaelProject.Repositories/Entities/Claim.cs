@@ -14,6 +14,6 @@ namespace YaelProject.Repositories.Entities
         public int PermissionId { get; set; }
         public EPolicy Policy { get; set; }
 
-
+        /*stam*/
     }
 }
